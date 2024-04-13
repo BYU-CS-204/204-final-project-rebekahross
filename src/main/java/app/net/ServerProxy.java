@@ -14,7 +14,7 @@ import java.net.URL;
 public class ServerProxy {
 
   //TODO:: ADD STUDENT URL HERE
-  protected static final String API_STRING = "https://r0j8m56kb7.execute-api.us-west-2.amazonaws.com/dev";
+  protected static final String API_STRING = "https://8l1vuu0arj.execute-api.us-west-2.amazonaws.com/newStage";
   private static final int TIMEOUT_MILLIS = 60000;
 
   private static ServerProxy instance;
